@@ -39,9 +39,9 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "zichao@gwu.edu"
-  facebook: deanattali
+  # facebook: deanattali
   github: Chao8219
-  twitter: daattali
+  # twitter: daattali
   rss: true
 #  reddit: yourname
   linkedin: zc-hou
@@ -68,7 +68,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "AChaosWebsite.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
