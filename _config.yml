@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: GitHub Page from Chao
+title: GitHub Page for Chao
 
 # Short description of your site
 description: Yooooo, Chao is here
@@ -12,7 +12,7 @@ author: Zichao Hou
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "About Me"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -22,7 +22,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/chao_avatar.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour here.
 round-avatar: true
@@ -38,13 +38,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
+  email: "zichao@gwu.edu"
   facebook: deanattali
-  github: daattali
+  github: Chao8219
   twitter: daattali
   rss: true
 #  reddit: yourname
-#  linkedin: daattali
+ linkedin: zc-hou
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
