@@ -20,14 +20,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/Colocolo-avatar%20.gif"
+# avatar: "/assets/img/Colocolo-avatar%20.gif"
 
 # By default, the image is cut into a circle. You can disable this behaviour here.
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/Colocolo-avatar%20.gif"
 
 
 # --- Footer options --- #
