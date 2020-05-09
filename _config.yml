@@ -12,12 +12,10 @@ author: Zichao Hou
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  My Links:
     - Sudoku: "https://sudoku.com/"
-  Author's home: "https://deanattali.com"
+    - Doulingo: "https://www.duolingo.com/"
+  About Me: "aboutme"
 
 # --- Logo --- #
 
