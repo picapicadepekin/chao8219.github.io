@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Check Me Out
+title: About Me
 ---
 
-Hey buddy, I am Chao, a nerd who loves running and cooking.
+![myAvatar](/assets/img/chao_avatar.jpg){: .mx-auto.d-block :}
+
+Hello there, I am Chao, a nerd who loves running and cooking.
