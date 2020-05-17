@@ -3,4 +3,6 @@ layout: page
 title: About Me
 ---
 
-Hello there, I am Chao, a nerd who loves running and cooking.
+Welcome to my website. 
+
+Check my posts to know about me, s'il vous plaît.
