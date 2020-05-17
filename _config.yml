@@ -148,7 +148,7 @@ footer-link-col: "#0099FF"
 
 # --- Misc --- #
 
-# Character used to separate site title and description in HTML document title
+Character used to separate site title and description in HTML document title
 # and RSS feed title
 title-separator: "=^0w0^="
 
