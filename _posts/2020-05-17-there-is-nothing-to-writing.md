@@ -5,7 +5,7 @@ subtitle: All you do is sit down at a typewriter and bleed.
 tags: [writing,booklist]
 ---
 
-[writing & life] Bird by Bird
+[writing and life] Bird by Bird
 
 [how to produce good articles] On Writing Well
 
